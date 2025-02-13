@@ -1,4 +1,4 @@
-// .mocharc.js - Mocha config file samo chances
+// .mocharc.js - Mocha config file samo chances dddd
 const {colors, symbols} = 
   require('mocha/lib/reporters/base');
 // Change the default console UI colors
